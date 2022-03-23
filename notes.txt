@@ -1,0 +1,106 @@
+C++ books:
+ - Object Oriented Programming in C++ Third Edition by Robert Lafore
+
+DSA books
+ - https://cdn.manesht.ir/19908___Introduction%20to%20Algorithms.pdf
+ - http://index-of.es/Varios-2/Algorithms%204th%20Edition.pdf
+ - https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi-pdf#page=6
+
+-  Day 1 and 2
+1. Basics
+-- Variables and data types
+-- Cout, cin
+-- if/else
+-- For, while
+-- Switch-case
+-- Functions
+
+
+- Day 3
+1. Vector
+-- Create
+-- push_back()
+-- size()
+-- begin()
+-- end()
+
+2. Strings
+-- Create
+-- size()
+-- push_back()
+-- pop_back()
+
+
+- Day 4
+1. Iterators
+-- Create
+-- Use and loop
+
+2. Pair
+-- Create
+-- Access elements
+
+3. Sorting
+-- sort()
+-- sort() with custom function
+
+- Day 5
+1. Searching
+-- upper_bound()
+-- lower_bound()
+
+2. Set
+-- Create
+-- size()
+-- find()
+-- insert()
+
+3. Stack
+-- Create
+-- push()
+-- pop()
+-- top()
+-- size()
+
+- Day 6
+1. Queue
+-- Create
+-- front()
+-- back()
+-- push()
+-- pop()
+-- size()
+
+2. Deque
+-- Create
+-- size()
+-- front()
+-- back()
+-- pop_front()
+-- pop_back()
+-- push_front()
+-- push_back()
+
+
+- Day 7
+1. Priority Queue
+-- Create min heap
+-- Create max heap
+-- top()
+-- push()
+-- pop()
+-- size()
+
+2. Map
+-- unordered_map
+-- ordered_map
+-- insert()
+-- size()
+-- begin()
+-- end()
+-- clear()
+
+Learning Resources - 
+1. GeeksForGeeks - https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
+2. Tutorials Point - https://www.tutorialspoint.com/cpp_standard_library/index.htm
+3. C++ Documentation - https://www.cplusplus.com/reference/stl/
