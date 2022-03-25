@@ -9,15 +9,15 @@ using namespace std;
 int main()
 {
     string st = "Sailendra";
-    // cout<< st<<endl;
+    cout<< st<<endl;
 
-    st.push_back(' ');
+    st.push_back('~');
     // cout<< st<<endl;
 
     st.append("Chettri");
     // cout<< st<<endl;
 
-    // cout<<st[5]<<endl;
+    cout<<st[5]<<endl;
     
     // st.replace(position, replace, stringToReplace);
     // st.replace(9, 1, "~");
